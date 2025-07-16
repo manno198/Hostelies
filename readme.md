@@ -112,4 +112,4 @@ A web-based Hostel Management System for educational institutions, featuring sep
 
 ## Credits
 
-- Developed by Harshita (https://github.com/manno198)
+- Developed by Harshita (https://github.com/manno198 )
